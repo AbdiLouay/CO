@@ -1,0 +1,11 @@
+def minutes_to_seconds(minutes):
+  """Converts minutes to seconds.
+
+  Args:
+    minutes: The number of minutes to convert.
+
+  Returns:
+    The number of seconds in the given number of minutes.
+  """
+
+  return minutes * 60

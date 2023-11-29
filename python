@@ -1,0 +1,10 @@
+total = 0
+
+for i in range(31):
+    temperature = float(input("Entrer une température : "))
+    total += temperature
+
+moyenne = total / 31
+
+print("Total =", total)
+print("Moyenne =", moyenne)
