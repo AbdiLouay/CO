@@ -1,6 +1,3 @@
-# Définition des variables
-x, y = symbols('x y')
-
 # Entrée des coordonnées de A
 xA = float(input("Entrez la coordonnée x de A: "))
 yA = float(input("Entrez la coordonnée y de A: "))
