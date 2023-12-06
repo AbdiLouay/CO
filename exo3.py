@@ -1,4 +1,4 @@
-from math import *
+from math import*
 def resol_second_degre (a,b,c):
 
     if a !=0:
