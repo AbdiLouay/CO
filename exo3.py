@@ -13,6 +13,6 @@ def resol_second_degre (a,b,c):
             x1 = (-b-sqrt(delta)) / (2*a)
             x2 = (-b+sqrt(delta)) / (2*a)
          return ("il y a deux solution réelle" + str(x1) + "et" + str(x2))
-    else;
+    else:
         return("a=0. ce n'est pas uen fonction du second degré")
         
